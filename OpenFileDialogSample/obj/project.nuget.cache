@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BNW9f20V7iUbffw4+eeZiF15bsKXb6a4tp1kvXuMCw15+wajBatNSbI3VYTG3web/foOJJnuyWgYAc/J69CLw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\OpenFileDialogSample\\OpenFileDialogSample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.matriksdata.com:8624/nuget/Nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

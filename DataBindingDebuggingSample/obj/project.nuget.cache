@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "83qqnuULiZNBfBkgxb+5zwXT27vo49trp6r7OBkwtWPolk09Lc/QOgdcrStfo3RBbU9vVtkfTV6Q7SIhXyrDjA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\DataBindingDebuggingSample\\DataBindingDebuggingSample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.matriksdata.com:8624/nuget/Nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
